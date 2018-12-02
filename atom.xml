@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Andilie-Blog</title>
   
-  <subtitle>Welcome to my blog</subtitle>
+  <subtitle>Andilie Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Andilie.github.io/"/>
