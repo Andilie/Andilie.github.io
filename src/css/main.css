@@ -1,0 +1,49 @@
+body{
+    position: relative;
+}
+.navbar-right {
+    float: right !important;
+    
+}
+.andi-navbar{
+    background: rgba(255, 255, 255, 0.9) !important;
+    -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1) !important;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1) !important;   
+}
+.im{
+transition: opacity 0.3s ease-in-out 0s;
+border-radius: 99px;
+}
+.andi-logo-a{
+color: black !important;
+font-size: 23px;
+}
+.im:hover{ box-shadow: 0 0 10px rgba(0,0,0,0.3); }
+.wall{
+   width: 100%;
+   height: 60.5px;
+}
+#Projects::before,#Blog::before,#About::before,#Thanks::before,#Contact::before{
+content: '';
+display: block;
+width: 100%;
+height: 50px;
+}
+.andi-foot-nav{
+   padding: 12px;
+   width: 100%;
+   height: 125px;
+   background-color: black;
+}
+.tanks-link{
+   font-size: 20px !important;
+}
+.thanks-box{
+ width: 128px;
+ margin: 0 auto;
+}
+.reserved{
+margin-top:25px;
+display:block;
+color:white;
+}
